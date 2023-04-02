@@ -1,4 +1,4 @@
-# Hola! I’m <a href="https://alphadead.github.io/portfolio/">@alphadead</a> 👋
+# Hola! I’m Aviral 👋
 
 <!---## About Me--->
 
@@ -18,7 +18,7 @@
 
 ## <p align="center">Visitor count </p> 
  <p align="center"> 
-  <img src="https://profile-counter.glitch.me/alphadead/count.svg" />
+  <img src="https://profile-counter.glitch.me/Aviral3108/count.svg" />
 </p>
 
 
@@ -27,7 +27,7 @@ alphadead/alphadead is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://alphadead.github.io/portfolio/"><img src="https://github-readme-stats.vercel.app/api?username=alphadead&show_icons=true&theme=chartreuse-dark" alt="alphadead"/>       
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphadead&theme=chartreuse-dark&layout=compact" alt="alphadead" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=Aviral3108&show_icons=true&theme=chartreuse-dark" alt="Aviral3108"/>       
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aviral3108&theme=chartreuse-dark&layout=compact" alt="Aviral3108" />
 
 
