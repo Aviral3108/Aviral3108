@@ -14,16 +14,16 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Full Stack Flutter-Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Computer Science undergraduate student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building applications.
+- 🔭 I’m working as a Programmer Analyst Trainee in Cogniant.
 - 🌱 Exploring Business and Entrepreneur world.
 - ⚡ In my free time, I try to solve real life problems and read self help books.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Aviral-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aviraldixit31/)   
 
 ## I am passionate about
 
-- Flutter :robot:
+- CyberSecurity :robot:
 - Open source :octocat:
 - Web Development 👩🏾‍💻
 
